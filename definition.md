@@ -16,7 +16,7 @@
 	* On the github navigate to the repository
 	* In the top right corner of the page click Fork
 
-	[Fork] (/fork.png)
+![Fork] (/fork.png)
 
 # Branch:
 
