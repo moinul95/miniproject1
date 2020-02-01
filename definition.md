@@ -16,6 +16,8 @@
 	* On the github navigate to the repository
 	* In the top right corner of the page click Fork
 
+	[Fork] (/fork.png)
+
 # Branch:
 
 **Branch** is separate from master which enables users to work locally and change made on the branch does not affect the master brach. Once all the changes in braches checked it can be added to the master and updated.
