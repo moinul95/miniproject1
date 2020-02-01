@@ -1,6 +1,6 @@
 # Clone:
 
-Git clone is used to create a local copy of a project that already eists remotely. Clone copies all the project files, branches and history.
+**Clone** is used to create a local copy of a project that already eists remotely. Clone copies all the project files, branches and history.
 
 ### Example:
  
@@ -9,12 +9,26 @@ Git clone is used to create a local copy of a project that already eists remotel
 
 # Fork:
 
-Fork is a copy of repository that developer manage and changes without affecting the original repository. The difference between fork and clone is that fork copy resides in github but clone copy resides in local machine
+**Fork** is a copy of repository that developer manage and changes without affecting the original repository. The difference between fork and clone is that fork copy resides in github but clone copy resides in local machine
 
-### Eample:
+### Example:
  
 	* On the github navigate to the repository
 	* In the top right corner of the page click Fork
 
-	![GitHub Logo](C:\Users\Moinul\Desktop\Afreen_MBA\WebDesign\miniproject1\fork.png)
-	Format: ![Alt Text](url)
+# Branch:
+
+**Branch** is separate from master which enables users to work locally and change made on the branch does not affect the master brach. Once all the changes in braches checked it can be added to the master and updated.
+
+### Example:
+
+	git checkout -b <branchname>
+	git checkout -b Afreen
+
+# Commit:
+
+**Commit** saves the snapshot to the project history and completes the change tracking process. Anything that is changed will be staged by adding **git add** and it will become part of snapshot with git commit
+
+### Example:
+
+	git commit -m "Definition of commit added"
