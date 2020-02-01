@@ -16,5 +16,4 @@ Fork is a copy of repository that developer manage and changes without affecting
 	* On the github navigate to the repository
 	* In the top right corner of the page click Fork
 
-	[Forking] (C:/Users/Moinul/Desktop/Afreen_MBA/WebDesign/fork.png)
-	Format: ![Alt Text](url)
+	![alt text](fork.png "Forking eample")
