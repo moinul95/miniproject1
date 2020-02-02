@@ -113,12 +113,12 @@ Gitflow Workflow is a Git workflow design that was first published and made popu
 
  ![bugFix branch created](Image/img2.png)
 
- ![checkout to bugFix branch](Image/Capture3.png)
+ ![checkout to bugFix branch](Image/img3.png)
 
- ![commit on bugFix branch](Image/Capture4.png)
+ ![commit on bugFix branch](Image/img4.png)
 
- ![checkout to master branch](Image/Capture5.png)
+ ![checkout to master branch](Image/img5.png)
 
- ![commit on master branch](Image/Capture6.png)
+ ![commit on master branch](Image/img6.png)
 
- ![merge bugFix to master branch](Image/Capture7.png)
+ ![merge bugFix to master branch](Image/img7.png)
